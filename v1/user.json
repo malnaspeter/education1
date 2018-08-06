@@ -1,0 +1,22 @@
+{
+    "id": "1574083",
+    "username": "snoopdogg",
+    "full_name": "Snoop Dogg",
+    "profile_picture": "http://distillery.s3.amazonaws.com/profiles/profile_1574083_75sq_1295469061.jpg",
+    "bio": "This is my bio",
+    "website": "",
+    "is_business": false,
+    "token": "asnoicnasnapsnckaslkkoiasnpoascklsa==",
+    "payment": {
+        "payment_group": 1
+    },
+    "company": {
+        "company_name": "App2gether",
+        "company_id": 11
+    },
+    "settings": {
+        "push": true,
+        "email": true
+    },
+    "permission": ["CREATE_EVENT", "CREATE_USER"]
+}

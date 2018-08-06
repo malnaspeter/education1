@@ -1,0 +1,44 @@
+[
+    {
+      "id" : 21,
+      "name": "Rixos The Palm Dubai",
+      "city": "Boardman",
+      "country": "United States",
+      "address": "Fractepéna utca 5",
+      "zip": "97818",
+      "lat": 45.8696,
+      "lon": -119.688,
+      "status": "AVAILABLE",
+      "open" : "8",
+      "image": "picture",
+      "close" : "20:30"
+    },
+    {
+      "id" : 20,
+      "name": "Shangri-La Hotel",      
+      "city": "Boardman",
+      "zip": "97818",
+      "country": "United States",
+      "address": "Fractepéna utca 5",
+      "lat": 45.8696,
+      "lon": -119.688,
+      "open" : "8",
+      "status": "CURRENTLY_CLOSED",
+      "image": "picture",
+      "close" : "20:30"
+    },
+    {
+      "id" : 22,
+      "name": "Grand Hyatt",
+      "city": "Boardman",
+      "zip": "97818",
+      "country": "United States",
+      "address": "Fractepéna utca 5",
+      "lat": 45.8696,
+      "lon": -119.688,
+      "open" : "8",
+      "status": "AVAILABLE",     
+      "image": "picture",
+      "close" : "20:30"
+    }
+]
